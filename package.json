@@ -1,0 +1,30 @@
+{
+  "name": "snowflake-waterline-adapter",
+  "version": "0.1.0",
+  "description": "Translates feathersjs query language into Snowflake SQL through the Waterline ORM",
+  "main": "lib/adapter.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wvezey/snowflake-waterline-adapter.git"
+  },
+  "keywords": [
+    "snowflake",
+    "sql",
+    "adapter",
+    "waterline",
+    "orm"
+  ],
+  "author": "Bill Vezey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wvezey/snowflake-waterline-adapter/issues"
+  },
+  "homepage": "https://github.com/wvezey/snowflake-waterline-adapter#readme",
+  "dependencies": {
+    "waterline-sequel-snowflake": "^0.1.0",
+    "moment": "^2.29.1"
+  }
+}
