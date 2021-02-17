@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/wvezey/snowflake-waterline-adapter#readme",
   "dependencies": {
-    "waterline-sequel-snowflake": "^0.1.0",
     "moment": "^2.29.1"
   }
 }
