@@ -1,6 +1,6 @@
 {
   "name": "snowflake-waterline-adapter",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Translates feathersjs query language into Snowflake SQL through the Waterline ORM",
   "main": "lib/adapter.js",
   "scripts": {
